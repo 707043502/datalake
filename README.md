@@ -41,7 +41,6 @@ Users can run the scripts follow steps bellow😋
 ## 4.FILEs 
 In case any customization,we post out our file organization strategies for referencing.👨
 
-```create_tables.py```: process to prepare database
 
 ```sql_helper.py```: basic codes used in this project, including:💀
 - configure original schema for staging talbes
